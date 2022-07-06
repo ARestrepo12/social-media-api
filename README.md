@@ -1,3 +1,4 @@
 # social-media-api
 
-## hello testing
+## A social media api built for platforms that want to add friends and share thoughts!
+
